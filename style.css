@@ -11,7 +11,8 @@
 
 body {
     display: flex;
-    height: 100vh;
+    height: 100dvh;
+    /* height: 100vh; */
     font-family: 'Inter';
 }
 
